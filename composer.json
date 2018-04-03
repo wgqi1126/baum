@@ -1,5 +1,5 @@
 {
-    "name": "gazsp/baum",
+    "name": "wgqi1126/baum",
     "type": "library",
     "description": "Baum is an implementation of the Nested Set pattern for Eloquent models.",
     "keywords": ["nested set", "mptt", "laravel", "laravel 5", "eloquent", "database"],
